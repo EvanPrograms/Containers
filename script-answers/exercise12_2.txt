@@ -1,0 +1,17 @@
+Script started on 2024-09-17 01:30:29-06:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="78" LINES="25"]
+[?2004h]0;computer@DESKTOP-F5BDTSS: /mnt/c/Users/Build/code/submission-repository/part12/part12-containers-applications/script-answers[01;32mcomputer@DESKTOP-F5BDTSS[00m:[01;34m/mnt/c/Users/Build/code/submission-repository/part12/part12-containers-applications/script-answers[00m$ docker container run -it bu[Kash
+[?2004lUnable to find image 'bash:latest' locally
+latest: Pulling from library/bash
+
+[1A[2K43c4264eed91: Pulling fs layer [1B
+[1A[2K71ead64939db: Pulling fs layer [1B
+[1A[2Kd40b809fc5bf: Pulling fs layer [1B[2A[2K71ead64939db: Downloading  27.38kB/2.693MB[2B[1A[2Kd40b809fc5bf: Downloading     333B/333B[1B[1A[2Kd40b809fc5bf: Download complete [1B[3A[2K43c4264eed91: Downloading  36.88kB/3.624MB[3B[2A[2K71ead64939db: Downloading  1.306MB/2.693MB[2B[3A[2K43c4264eed91: Downloading  1.015MB/3.624MB[3B[2A[2K71ead64939db: Downloading  2.419MB/2.693MB[2B[3A[2K43c4264eed91: Downloading  2.489MB/3.624MB[3B[2A[2K71ead64939db: Verifying Checksum [2B[2A[2K71ead64939db: Download complete [2B[3A[2K43c4264eed91: Verifying Checksum [3B[3A[2K43c4264eed91: Download complete [3B[3A[2K43c4264eed91: Extracting  65.54kB/3.624MB[3B[3A[2K43c4264eed91: Extracting  1.114MB/3.624MB[3B[3A[2K43c4264eed91: Extracting  2.425MB/3.624MB[3B[3A[2K43c4264eed91: Extracting  3.624MB/3.624MB[3B[3A[2K43c4264eed91: Pull complete [3B[2A[2K71ead64939db: Extracting  32.77kB/2.693MB[2B[2A[2K71ead64939db: Extracting  1.016MB/2.693MB[2B[2A[2K71ead64939db: Extracting  2.327MB/2.693MB[2B[2A[2K71ead64939db: Extracting  2.693MB/2.693MB[2B[2A[2K71ead64939db: Pull complete [2B[1A[2Kd40b809fc5bf: Extracting     333B/333B[1B[1A[2Kd40b809fc5bf: Extracting     333B/333B[1B[1A[2Kd40b809fc5bf: Pull complete [1BDigest: sha256:b2ecea0c7afaa96b245b9bc1f207c1399bd7358f1be6b45964ae6a31dec60da9
+Status: Downloaded newer image for bash:latest
+[?2004hbash-5.2# mkdir [K[K[K[K[K[Kmkdir -p /su[K[Kusr/src/app
+[?2004l[?2004hbash-5.2# touch /usr/src/app/index.js
+[?2004l[?2004hbash-5.2# exit
+[?2004lexit
+[?2004h]0;computer@DESKTOP-F5BDTSS: /mnt/c/Users/Build/code/submission-repository/part12/part12-containers-applications/script-answers[01;32mcomputer@DESKTOP-F5BDTSS[00m:[01;34m/mnt/c/Users/Build/code/submission-repository/part12/part12-containers-applications/script-answers[00m$ exit
+[?2004lexit
+
+Script done on 2024-09-17 01:32:01-06:00 [COMMAND_EXIT_CODE="0"]
