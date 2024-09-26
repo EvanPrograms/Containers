@@ -1,0 +1,13 @@
+Script started on 2024-09-25 00:19:32-06:00 [TERM="xterm-256color" TTY="/dev/pts/6" COLUMNS="75" LINES="19"]
+[?2004h]0;computer@DESKTOP-F5BDTSS: /mnt/c/Users/Build/code/submission-repository/part12/part12-containers-applications/script-answers[01;32mcomputer@DESKTOP-F5BDTSS[00m:[01;34m/mnt/c/Users/Build/code/submission-repository/part12/part12-containers-applications/script-answers[00m$ MONGO_URL=mongodb://the_username:the_password@localhost:3456/the_database npm run dev
+[?2004l[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m Missing script: "dev"
+[0m[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m 
+[0m[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m To see a list of scripts, run:
+[0m[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m   npm run
+[0m
+[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m A complete log of this run can be found in:
+[0m[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m     /home/computer/.npm/_logs/2024-09-25T06_28_46_218Z-debug-0.log
+[0m[?2004h]0;computer@DESKTOP-F5BDTSS: /mnt/c/Users/Build/code/submission-repository/part12/part12-containers-applications/script-answers[01;32mcomputer@DESKTOP-F5BDTSS[00m:[01;34m/mnt/c/Users/Build/code/submission-repository/part12/part12-containers-applications/script-answers[00m$ exit
+[?2004lexit
+
+Script done on 2024-09-25 00:29:17-06:00 [COMMAND_EXIT_CODE="1"]
