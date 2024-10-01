@@ -1,4 +1,19 @@
 services:
+  server:
+    build:
+      context: .
+      dockerfile: dev.Dockerfile
+    volumes:
+    - ./todo-backend:/usr/src/app
+    ports:
+      - "3000:3000"
+    environment:
+      - REDIS_URL=redis://redis:6379
+      - MONGO_URL=mongodb://root:example@mongo:3456/the_database
+    depends_on:
+    - mongo
+    - redis
+    
   mongo:
     image: mongo
     ports:
