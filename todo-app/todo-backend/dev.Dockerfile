@@ -20,4 +20,4 @@ COPY . .
 EXPOSE 3000
 
 # Use Nodemon to start the application in development mode
-CMD ["nodemon", "src/index.js"]
+CMD npm run dev
